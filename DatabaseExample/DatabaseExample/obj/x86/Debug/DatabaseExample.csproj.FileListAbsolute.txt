@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\MyNotepad\DatabaseExample\DatabaseExample\obj\x86\Debug\DatabaseExample.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\MyNotepad\DatabaseExample\DatabaseExample\obj\x86\Debug\DatabaseExample.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\MyNotepad\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.exe
+C:\Users\LENOVO\Desktop\MyNotepad\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.pdb
+C:\Users\LENOVO\Desktop\MyNotepad\DatabaseExample\DatabaseExample\obj\x86\Debug\DatabaseExample.Database_Example.resources
+C:\Users\LENOVO\Desktop\MyNotepad\DatabaseExample\DatabaseExample\obj\x86\Debug\DatabaseExample.exe
+C:\Users\LENOVO\Desktop\MyNotepad\DatabaseExample\DatabaseExample\obj\x86\Debug\DatabaseExample.pdb

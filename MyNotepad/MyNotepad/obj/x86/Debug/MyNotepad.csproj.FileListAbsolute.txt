@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Desktop\MyNotepad\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.About.resources
+C:\Users\LENOVO\Desktop\MyNotepad\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.MyNotepad.resources
+C:\Users\LENOVO\Desktop\MyNotepad\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\MyNotepad\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\MyNotepad\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe
+C:\Users\LENOVO\Desktop\MyNotepad\MyNotepad\MyNotepad\bin\Debug\MyNotepad.pdb
+C:\Users\LENOVO\Desktop\MyNotepad\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.exe
+C:\Users\LENOVO\Desktop\MyNotepad\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.pdb
