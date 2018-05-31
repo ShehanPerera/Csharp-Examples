@@ -6,3 +6,5 @@ C:\Users\LENOVO\Desktop\MyNotepad\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe
 C:\Users\LENOVO\Desktop\MyNotepad\MyNotepad\MyNotepad\bin\Debug\MyNotepad.pdb
 C:\Users\LENOVO\Desktop\MyNotepad\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.exe
 C:\Users\LENOVO\Desktop\MyNotepad\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.pdb
+H:\My doc\C#-Example\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.exe
+H:\My doc\C#-Example\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.pdb
