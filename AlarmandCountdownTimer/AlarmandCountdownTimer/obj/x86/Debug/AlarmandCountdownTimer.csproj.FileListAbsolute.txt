@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Desktop\MyNotepad\AlarmandCountdownTimer\AlarmandCountdownTimer\bin\Debug\AlarmandCountdownTimer.exe
+C:\Users\LENOVO\Desktop\MyNotepad\AlarmandCountdownTimer\AlarmandCountdownTimer\bin\Debug\AlarmandCountdownTimer.pdb
+C:\Users\LENOVO\Desktop\MyNotepad\AlarmandCountdownTimer\AlarmandCountdownTimer\obj\x86\Debug\AlarmandCountdownTimer.AlarmandCountdownTimer.resources
+C:\Users\LENOVO\Desktop\MyNotepad\AlarmandCountdownTimer\AlarmandCountdownTimer\obj\x86\Debug\AlarmandCountdownTimer.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\MyNotepad\AlarmandCountdownTimer\AlarmandCountdownTimer\obj\x86\Debug\AlarmandCountdownTimer.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\MyNotepad\AlarmandCountdownTimer\AlarmandCountdownTimer\obj\x86\Debug\AlarmandCountdownTimer.exe
+C:\Users\LENOVO\Desktop\MyNotepad\AlarmandCountdownTimer\AlarmandCountdownTimer\obj\x86\Debug\AlarmandCountdownTimer.pdb
+C:\Users\LENOVO\Desktop\MyNotepad\AlarmandCountdownTimer\AlarmandCountdownTimer\obj\x86\Debug\AlarmandCountdownTimer.About.resources
