@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\MyNotepad\AutoCompleteTextbox\AutoCompleteTextbox\bin\Debug\AutoCompleteTextbox.exe
+C:\Users\LENOVO\Desktop\MyNotepad\AutoCompleteTextbox\AutoCompleteTextbox\bin\Debug\AutoCompleteTextbox.pdb
+C:\Users\LENOVO\Desktop\MyNotepad\AutoCompleteTextbox\AutoCompleteTextbox\obj\x86\Debug\AutoCompleteTextbox.Form1.resources
+C:\Users\LENOVO\Desktop\MyNotepad\AutoCompleteTextbox\AutoCompleteTextbox\obj\x86\Debug\AutoCompleteTextbox.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\MyNotepad\AutoCompleteTextbox\AutoCompleteTextbox\obj\x86\Debug\AutoCompleteTextbox.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\MyNotepad\AutoCompleteTextbox\AutoCompleteTextbox\obj\x86\Debug\AutoCompleteTextbox.exe
+C:\Users\LENOVO\Desktop\MyNotepad\AutoCompleteTextbox\AutoCompleteTextbox\obj\x86\Debug\AutoCompleteTextbox.pdb
