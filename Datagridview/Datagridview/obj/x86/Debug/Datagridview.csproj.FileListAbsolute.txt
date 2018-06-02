@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\MyNotepad\Datagridview\Datagridview\bin\Debug\Datagridview.exe
+C:\Users\LENOVO\Desktop\MyNotepad\Datagridview\Datagridview\bin\Debug\Datagridview.pdb
+C:\Users\LENOVO\Desktop\MyNotepad\Datagridview\Datagridview\obj\x86\Debug\Datagridview.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\MyNotepad\Datagridview\Datagridview\obj\x86\Debug\Datagridview.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\MyNotepad\Datagridview\Datagridview\obj\x86\Debug\Datagridview.exe
+C:\Users\LENOVO\Desktop\MyNotepad\Datagridview\Datagridview\obj\x86\Debug\Datagridview.pdb
+C:\Users\LENOVO\Desktop\MyNotepad\Datagridview\Datagridview\obj\x86\Debug\maxcity.Invoice.resources
