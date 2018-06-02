@@ -6,3 +6,11 @@ C:\Users\LENOVO\Desktop\MyNotepad\Login\Login\obj\x86\Debug\Login.Properties.Res
 C:\Users\LENOVO\Desktop\MyNotepad\Login\Login\obj\x86\Debug\Login.csproj.GenerateResource.Cache
 C:\Users\LENOVO\Desktop\MyNotepad\Login\Login\obj\x86\Debug\Login.exe
 C:\Users\LENOVO\Desktop\MyNotepad\Login\Login\obj\x86\Debug\Login.pdb
+H:\My doc\C#-Example\Login\Login\obj\x86\Debug\Login.exe
+H:\My doc\C#-Example\Login\Login\obj\x86\Debug\Login.pdb
+H:\My doc\C#-Example\Login\Login\obj\x86\Debug\Login.Login.resources
+H:\My doc\C#-Example\Login\Login\obj\x86\Debug\Login.MainPage.resources
+H:\My doc\C#-Example\Login\Login\obj\x86\Debug\Login.Properties.Resources.resources
+H:\My doc\C#-Example\Login\Login\obj\x86\Debug\Login.csproj.GenerateResource.Cache
+H:\My doc\C#-Example\Login\Login\bin\Debug\Login.exe
+H:\My doc\C#-Example\Login\Login\bin\Debug\Login.pdb

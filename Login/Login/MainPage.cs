@@ -24,7 +24,7 @@ namespace Login
 
         private void back_Click(object sender, EventArgs e)
         {
-            Loging loging = new Loging();
+            Login loging = new Login();
             loging.Show();
             this.Hide();
         }

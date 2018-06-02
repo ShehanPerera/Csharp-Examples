@@ -1,6 +1,6 @@
 ﻿namespace Login
 {
-    partial class Loging
+    partial class Login
     {
         /// <summary>
         /// Required designer variable.
@@ -28,12 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.Username = new System.Windows.Forms.Label();
             this.Password = new System.Windows.Forms.Label();
             this.Log = new System.Windows.Forms.Button();
             this.close = new System.Windows.Forms.Button();
             this.usernameBox = new System.Windows.Forms.TextBox();
             this.passwordBox = new System.Windows.Forms.TextBox();
+            this.progressBar = new System.Windows.Forms.ProgressBar();
+            this.timer = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // Username
@@ -56,17 +59,17 @@
             // 
             // Log
             // 
-            this.Log.Location = new System.Drawing.Point(149, 152);
+            this.Log.Location = new System.Drawing.Point(160, 136);
             this.Log.Name = "Log";
             this.Log.Size = new System.Drawing.Size(75, 23);
             this.Log.TabIndex = 2;
-            this.Log.Text = "Loging";
+            this.Log.Text = "Login";
             this.Log.UseVisualStyleBackColor = true;
             this.Log.Click += new System.EventHandler(this.Log_Click);
             // 
             // close
             // 
-            this.close.Location = new System.Drawing.Point(262, 152);
+            this.close.Location = new System.Drawing.Point(257, 136);
             this.close.Name = "close";
             this.close.Size = new System.Drawing.Size(75, 23);
             this.close.TabIndex = 3;
@@ -89,20 +92,32 @@
             this.passwordBox.TabIndex = 5;
             this.passwordBox.UseSystemPasswordChar = true;
             // 
-            // Loging
+            // progressBar
+            // 
+            this.progressBar.Location = new System.Drawing.Point(54, 172);
+            this.progressBar.Name = "progressBar";
+            this.progressBar.Size = new System.Drawing.Size(278, 23);
+            this.progressBar.TabIndex = 6;
+            // 
+            // timer
+            // 
+            this.timer.Tick += new System.EventHandler(this.timer_Tick);
+            // 
+            // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.ClientSize = new System.Drawing.Size(401, 202);
+            this.ClientSize = new System.Drawing.Size(401, 218);
+            this.Controls.Add(this.progressBar);
             this.Controls.Add(this.passwordBox);
             this.Controls.Add(this.usernameBox);
             this.Controls.Add(this.close);
             this.Controls.Add(this.Log);
             this.Controls.Add(this.Password);
             this.Controls.Add(this.Username);
-            this.Name = "Loging";
-            this.Text = "Loging";
+            this.Name = "Login";
+            this.Text = "Login";
             this.Load += new System.EventHandler(this.Loging_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -117,6 +132,8 @@
         private System.Windows.Forms.Button close;
         private System.Windows.Forms.TextBox usernameBox;
         private System.Windows.Forms.TextBox passwordBox;
+        private System.Windows.Forms.ProgressBar progressBar;
+        private System.Windows.Forms.Timer timer;
     }
 }
 

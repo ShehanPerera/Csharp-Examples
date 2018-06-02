@@ -9,11 +9,13 @@ using System.Windows.Forms;
 
 namespace Login
 {
-    public partial class Loging : Form
+    public partial class Login : Form
     {
-        public Loging()
+        string urname;
+        public Login()
         {
             InitializeComponent();
+            usernameBox.Focus();
         }
 
         private void close_Click(object sender, EventArgs e)
@@ -36,10 +38,9 @@ namespace Login
 
             if(uname.Equals("admin")&& password.Equals("123"))
              {
-                MainPage mainPage = new MainPage(uname);
-                this.Hide();
-                mainPage.Show();
-
+                 timer.Enabled = true;
+                 urname =uname;
+               
             }                           
             else
             {
@@ -54,6 +55,19 @@ namespace Login
         private void Loging_Load(object sender, EventArgs e)
         {
             usernameBox.Focus();
+        }
+
+        private void timer_Tick(object sender, EventArgs e)
+        {
+            progressBar.Value = Convert.ToInt32(progressBar.Value) + 10;
+
+            if (Convert.ToInt32(progressBar.Value) > 90)
+            {
+                timer.Enabled = false;
+                MainPage mainPage = new MainPage(urname);
+                this.Hide();
+                mainPage.Show();
+            }
         }
                      
     }
