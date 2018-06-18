@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\MyNotepad\MyWebBrowser\MyWebBrowser\bin\Debug\MyWebBrowser.exe
+C:\Users\LENOVO\Desktop\MyNotepad\MyWebBrowser\MyWebBrowser\bin\Debug\MyWebBrowser.pdb
+C:\Users\LENOVO\Desktop\MyNotepad\MyWebBrowser\MyWebBrowser\obj\x86\Debug\MyWebBrowser.Mywebbrowser.resources
+C:\Users\LENOVO\Desktop\MyNotepad\MyWebBrowser\MyWebBrowser\obj\x86\Debug\MyWebBrowser.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\MyNotepad\MyWebBrowser\MyWebBrowser\obj\x86\Debug\MyWebBrowser.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\MyNotepad\MyWebBrowser\MyWebBrowser\obj\x86\Debug\MyWebBrowser.exe
+C:\Users\LENOVO\Desktop\MyNotepad\MyWebBrowser\MyWebBrowser\obj\x86\Debug\MyWebBrowser.pdb
