@@ -8,10 +8,3 @@ C:\Users\LENOVO\Desktop\MyNotepad\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.ex
 C:\Users\LENOVO\Desktop\MyNotepad\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.pdb
 H:\My doc\C#-Example\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.exe
 H:\My doc\C#-Example\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.pdb
-H:\My doc\C#-Example\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe
-H:\My doc\C#-Example\MyNotepad\MyNotepad\bin\Debug\MyNotepad.pdb
-H:\My doc\C#-Example\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.csprojResolveAssemblyReference.cache
-H:\My doc\C#-Example\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.About.resources
-H:\My doc\C#-Example\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.MyNotepad.resources
-H:\My doc\C#-Example\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.Properties.Resources.resources
-H:\My doc\C#-Example\MyNotepad\MyNotepad\obj\x86\Debug\MyNotepad.csproj.GenerateResource.Cache
