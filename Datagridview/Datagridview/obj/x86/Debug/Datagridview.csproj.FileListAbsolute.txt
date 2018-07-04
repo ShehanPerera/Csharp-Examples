@@ -5,3 +5,10 @@ C:\Users\LENOVO\Desktop\MyNotepad\Datagridview\Datagridview\obj\x86\Debug\Datagr
 C:\Users\LENOVO\Desktop\MyNotepad\Datagridview\Datagridview\obj\x86\Debug\Datagridview.exe
 C:\Users\LENOVO\Desktop\MyNotepad\Datagridview\Datagridview\obj\x86\Debug\Datagridview.pdb
 C:\Users\LENOVO\Desktop\MyNotepad\Datagridview\Datagridview\obj\x86\Debug\maxcity.Invoice.resources
+H:\My doc\C#-Example\Datagridview\Datagridview\obj\x86\Debug\Datagridview.exe
+H:\My doc\C#-Example\Datagridview\Datagridview\obj\x86\Debug\Datagridview.pdb
+H:\My doc\C#-Example\Datagridview\Datagridview\bin\Debug\Datagridview.exe
+H:\My doc\C#-Example\Datagridview\Datagridview\bin\Debug\Datagridview.pdb
+H:\My doc\C#-Example\Datagridview\Datagridview\obj\x86\Debug\maxcity.Invoice.resources
+H:\My doc\C#-Example\Datagridview\Datagridview\obj\x86\Debug\Datagridview.Properties.Resources.resources
+H:\My doc\C#-Example\Datagridview\Datagridview\obj\x86\Debug\Datagridview.csproj.GenerateResource.Cache

@@ -1,0 +1,333 @@
+c:\users\lg\documents\visual studio 2010\Projects\maxcity\maxcity\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lg\documents\visual studio 2010\Projects\maxcity\maxcity\obj\x86\Debug\maxcity.Form1.resources
+c:\users\lg\documents\visual studio 2010\Projects\maxcity\maxcity\obj\x86\Debug\maxcity.Properties.Resources.resources
+c:\users\lg\documents\visual studio 2010\Projects\maxcity\maxcity\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\lg\documents\visual studio 2010\Projects\maxcity\maxcity\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\lg\documents\visual studio 2010\Projects\maxcity\maxcity\bin\Debug\maxcity.exe
+c:\users\lg\documents\visual studio 2010\Projects\maxcity\maxcity\bin\Debug\maxcity.pdb
+c:\users\lg\documents\visual studio 2010\Projects\maxcity\maxcity\obj\x86\Debug\maxcity.exe
+c:\users\lg\documents\visual studio 2010\Projects\maxcity\maxcity\obj\x86\Debug\maxcity.pdb
+C:\Users\LG\Documents\Visual Studio 2010\Projects\maxcity\maxcity\obj\x86\Debug\maxcity.Loading.resources
+C:\Users\LG\Documents\Visual Studio 2010\Projects\maxcity\maxcity\obj\x86\Debug\maxcity.MAX_CITY.resources
+C:\Users\LG\Documents\Visual Studio 2010\Projects\maxcity\maxcity\obj\x86\Debug\maxcity.Item_Create.resources
+C:\Users\LG\Documents\Visual Studio 2010\Projects\maxcity\maxcity\obj\x86\Debug\maxcity.Customer_Create.resources
+C:\Users\LG\Documents\Visual Studio 2010\Projects\maxcity\maxcity\obj\x86\Debug\maxcity.Vendor_Create.resources
+C:\Users\LG\Documents\Visual Studio 2010\Projects\maxcity\maxcity\obj\x86\Debug\maxcity.Invoice.resources
+C:\Users\LG\Documents\Visual Studio 2010\Projects\maxcity\maxcity\obj\x86\Debug\maxcity.Update_Vendor.resources
+C:\Users\LG\Documents\Visual Studio 2010\Projects\maxcity\maxcity\obj\x86\Debug\maxcity.Create_Account.resources
+C:\Users\LG\Documents\Visual Studio 2010\Projects\maxcity\maxcity\obj\x86\Debug\maxcity.Customer_Update.resources
+C:\Users\LG\Documents\Visual Studio 2010\Projects\maxcity\maxcity\obj\x86\Debug\maxcity.ItemUpdate.resources
+C:\Users\LG\Documents\Visual Studio 2010\Projects\maxcity\maxcity\bin\Debug\maxcity.exe.config
+C:\Users\LG\Documents\Visual Studio 2010\Projects\maxcity\maxcity\bin\Debug\data.mdf
+C:\Users\LG\Documents\Visual Studio 2010\Projects\maxcity\maxcity\bin\Debug\data_log.ldf
+H:\shagi\maxcity\maxcity\bin\Debug\maxcity.exe.config
+H:\shagi\maxcity\maxcity\obj\x86\Debug\maxcity.exe
+H:\shagi\maxcity\maxcity\obj\x86\Debug\maxcity.pdb
+H:\shagi\maxcity\maxcity\bin\Debug\data.mdf
+H:\shagi\maxcity\maxcity\bin\Debug\data_log.ldf
+H:\shagi\maxcity\maxcity\bin\Debug\maxcity.exe
+H:\shagi\maxcity\maxcity\bin\Debug\maxcity.pdb
+H:\shagi\maxcity\maxcity\obj\x86\Debug\maxcity.Create_Account.resources
+H:\shagi\maxcity\maxcity\obj\x86\Debug\maxcity.Customer_Create.resources
+H:\shagi\maxcity\maxcity\obj\x86\Debug\maxcity.Customer_Update.resources
+H:\shagi\maxcity\maxcity\obj\x86\Debug\maxcity.Form1.resources
+H:\shagi\maxcity\maxcity\obj\x86\Debug\maxcity.Loading.resources
+H:\shagi\maxcity\maxcity\obj\x86\Debug\maxcity.Invoice.resources
+H:\shagi\maxcity\maxcity\obj\x86\Debug\maxcity.Item_Create.resources
+H:\shagi\maxcity\maxcity\obj\x86\Debug\maxcity.ItemUpdate.resources
+H:\shagi\maxcity\maxcity\obj\x86\Debug\maxcity.MAX_CITY.resources
+H:\shagi\maxcity\maxcity\obj\x86\Debug\maxcity.Properties.Resources.resources
+H:\shagi\maxcity\maxcity\obj\x86\Debug\maxcity.Update_Vendor.resources
+H:\shagi\maxcity\maxcity\obj\x86\Debug\maxcity.Vendor_Create.resources
+H:\shagi\maxcity\maxcity\obj\x86\Debug\maxcity.csproj.GenerateResource.Cache
+H:\shagi\maxcity\maxcity\obj\x86\Debug\maxcity.csprojResolveAssemblyReference.cache
+C:\Users\hasitha sandaruwan\Desktop\maxcity\maxcity\bin\Debug\maxcity.exe.config
+C:\Users\hasitha sandaruwan\Desktop\maxcity\maxcity\obj\x86\Debug\maxcity.exe
+C:\Users\hasitha sandaruwan\Desktop\maxcity\maxcity\obj\x86\Debug\maxcity.pdb
+C:\Users\hasitha sandaruwan\Desktop\maxcity\maxcity\obj\x86\Debug\maxcity.csprojResolveAssemblyReference.cache
+C:\Users\hasitha sandaruwan\Desktop\maxcity\maxcity\obj\x86\Debug\maxcity.Create_Account.resources
+C:\Users\hasitha sandaruwan\Desktop\maxcity\maxcity\obj\x86\Debug\maxcity.Customer_Create.resources
+C:\Users\hasitha sandaruwan\Desktop\maxcity\maxcity\obj\x86\Debug\maxcity.Customer_Update.resources
+C:\Users\hasitha sandaruwan\Desktop\maxcity\maxcity\obj\x86\Debug\maxcity.Form1.resources
+C:\Users\hasitha sandaruwan\Desktop\maxcity\maxcity\obj\x86\Debug\maxcity.Loading.resources
+C:\Users\hasitha sandaruwan\Desktop\maxcity\maxcity\obj\x86\Debug\maxcity.Invoice.resources
+C:\Users\hasitha sandaruwan\Desktop\maxcity\maxcity\obj\x86\Debug\maxcity.Item_Create.resources
+C:\Users\hasitha sandaruwan\Desktop\maxcity\maxcity\obj\x86\Debug\maxcity.ItemUpdate.resources
+C:\Users\hasitha sandaruwan\Desktop\maxcity\maxcity\obj\x86\Debug\maxcity.MAX_CITY.resources
+C:\Users\hasitha sandaruwan\Desktop\maxcity\maxcity\obj\x86\Debug\maxcity.Properties.Resources.resources
+C:\Users\hasitha sandaruwan\Desktop\maxcity\maxcity\obj\x86\Debug\maxcity.Update_Vendor.resources
+C:\Users\hasitha sandaruwan\Desktop\maxcity\maxcity\obj\x86\Debug\maxcity.Vendor_Create.resources
+C:\Users\hasitha sandaruwan\Desktop\maxcity\maxcity\obj\x86\Debug\maxcity.csproj.GenerateResource.Cache
+C:\Users\hasitha sandaruwan\Desktop\maxcity\maxcity\bin\Debug\data.mdf
+C:\Users\hasitha sandaruwan\Desktop\maxcity\maxcity\bin\Debug\data_log.ldf
+C:\Users\hasitha sandaruwan\Desktop\maxcity\maxcity\bin\Debug\maxcity.exe
+C:\Users\hasitha sandaruwan\Desktop\maxcity\maxcity\bin\Debug\maxcity.pdb
+D:\maxcity\maxcity\bin\Debug\maxcity.exe.config
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.exe
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.pdb
+D:\maxcity\maxcity\bin\Debug\data.mdf
+D:\maxcity\maxcity\bin\Debug\data_log.ldf
+D:\maxcity\maxcity\bin\Debug\maxcity.exe
+D:\maxcity\maxcity\bin\Debug\maxcity.pdb
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.Create_Account.resources
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.Customer_Create.resources
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.Customer_Update.resources
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.Form1.resources
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.Invoice.resources
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.Item_Create.resources
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.ItemUpdate.resources
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.MAX_CITY.resources
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.Properties.Resources.resources
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.Update_Vendor.resources
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.Vendor_Create.resources
+H:\2014sp118\New folder\maxcity\maxcity\bin\Debug\maxcity.exe.config
+H:\2014sp118\New folder\maxcity\maxcity\obj\x86\Debug\maxcity.exe
+H:\2014sp118\New folder\maxcity\maxcity\obj\x86\Debug\maxcity.pdb
+H:\2014sp118\New folder\maxcity\maxcity\bin\Debug\data.mdf
+H:\2014sp118\New folder\maxcity\maxcity\bin\Debug\data_log.ldf
+H:\2014sp118\New folder\maxcity\maxcity\bin\Debug\maxcity.exe
+H:\2014sp118\New folder\maxcity\maxcity\bin\Debug\maxcity.pdb
+H:\2014sp118\New folder\maxcity\maxcity\obj\x86\Debug\maxcity.csprojResolveAssemblyReference.cache
+H:\2014sp118\New folder\maxcity\maxcity\obj\x86\Debug\maxcity.Create_Account.resources
+H:\2014sp118\New folder\maxcity\maxcity\obj\x86\Debug\maxcity.Customer_Create.resources
+H:\2014sp118\New folder\maxcity\maxcity\obj\x86\Debug\maxcity.Customer_Update.resources
+H:\2014sp118\New folder\maxcity\maxcity\obj\x86\Debug\maxcity.Form1.resources
+H:\2014sp118\New folder\maxcity\maxcity\obj\x86\Debug\maxcity.Form3.resources
+H:\2014sp118\New folder\maxcity\maxcity\obj\x86\Debug\maxcity.Invoice.resources
+H:\2014sp118\New folder\maxcity\maxcity\obj\x86\Debug\maxcity.Item_Create.resources
+H:\2014sp118\New folder\maxcity\maxcity\obj\x86\Debug\maxcity.ItemUpdate.resources
+H:\2014sp118\New folder\maxcity\maxcity\obj\x86\Debug\maxcity.MAX_CITY.resources
+H:\2014sp118\New folder\maxcity\maxcity\obj\x86\Debug\maxcity.Properties.Resources.resources
+H:\2014sp118\New folder\maxcity\maxcity\obj\x86\Debug\maxcity.Update_Vendor.resources
+H:\2014sp118\New folder\maxcity\maxcity\obj\x86\Debug\maxcity.Vendor_Create.resources
+H:\2014sp118\New folder\maxcity\maxcity\obj\x86\Debug\maxcity.csproj.GenerateResource.Cache
+H:\2014sp118\New folder\maxcity\maxcity\obj\x86\Debug\maxcity.Form4.resources
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.Form7.resources
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.CustomerView.resources
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.VendorView.resources
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.ItemView.resources
+C:\Users\jana\Desktop\sako\maxcity\maxcity\bin\Debug\maxcity.exe.config
+C:\Users\jana\Desktop\sako\maxcity\maxcity\obj\x86\Debug\maxcity.exe
+C:\Users\jana\Desktop\sako\maxcity\maxcity\obj\x86\Debug\maxcity.pdb
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.Help.resources
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\bin\Debug\maxcity.exe.config
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\obj\x86\Debug\maxcity.exe
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\obj\x86\Debug\maxcity.pdb
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\bin\Debug\data.mdf
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\bin\Debug\data_log.ldf
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\bin\Debug\maxcity.exe
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\bin\Debug\maxcity.pdb
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\obj\x86\Debug\maxcity.csprojResolveAssemblyReference.cache
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\obj\x86\Debug\maxcity.Create_Account.resources
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\obj\x86\Debug\maxcity.Customer_Create.resources
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\obj\x86\Debug\maxcity.Customer_Update.resources
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\obj\x86\Debug\maxcity.CustomerView.resources
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\obj\x86\Debug\maxcity.Form1.resources
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\obj\x86\Debug\maxcity.Form7.resources
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\obj\x86\Debug\maxcity.Help.resources
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\obj\x86\Debug\maxcity.Invoice.resources
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\obj\x86\Debug\maxcity.Item_Create.resources
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\obj\x86\Debug\maxcity.ItemUpdate.resources
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\obj\x86\Debug\maxcity.ItemView.resources
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\obj\x86\Debug\maxcity.MAX_CITY.resources
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\obj\x86\Debug\maxcity.Properties.Resources.resources
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\obj\x86\Debug\maxcity.Update_Vendor.resources
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\obj\x86\Debug\maxcity.Vendor_Create.resources
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\obj\x86\Debug\maxcity.VendorView.resources
+C:\Users\Jayamal\Desktop\sako\maxcity\maxcity\obj\x86\Debug\maxcity.csproj.GenerateResource.Cache
+I:\sako\maxcity\maxcity\bin\Debug\maxcity.exe.config
+I:\sako\maxcity\maxcity\obj\x86\Debug\maxcity.exe
+I:\sako\maxcity\maxcity\obj\x86\Debug\maxcity.pdb
+D:\project new\sako\maxcity\maxcity\bin\Debug\maxcity.exe.config
+D:\project new\sako\maxcity\maxcity\obj\x86\Debug\maxcity.exe
+D:\project new\sako\maxcity\maxcity\obj\x86\Debug\maxcity.pdb
+D:\project new\sako\maxcity\maxcity\bin\Debug\data.mdf
+D:\project new\sako\maxcity\maxcity\bin\Debug\data_log.ldf
+D:\project new\sako\maxcity\maxcity\bin\Debug\maxcity.exe
+D:\project new\sako\maxcity\maxcity\bin\Debug\maxcity.pdb
+D:\project new\sako\maxcity\maxcity\obj\x86\Debug\maxcity.Create_Account.resources
+D:\project new\sako\maxcity\maxcity\obj\x86\Debug\maxcity.Customer_Create.resources
+D:\project new\sako\maxcity\maxcity\obj\x86\Debug\maxcity.Customer_Update.resources
+D:\project new\sako\maxcity\maxcity\obj\x86\Debug\maxcity.CustomerView.resources
+D:\project new\sako\maxcity\maxcity\obj\x86\Debug\maxcity.Form1.resources
+D:\project new\sako\maxcity\maxcity\obj\x86\Debug\maxcity.Form7.resources
+D:\project new\sako\maxcity\maxcity\obj\x86\Debug\maxcity.Help.resources
+D:\project new\sako\maxcity\maxcity\obj\x86\Debug\maxcity.Invoice.resources
+D:\project new\sako\maxcity\maxcity\obj\x86\Debug\maxcity.Item_Create.resources
+D:\project new\sako\maxcity\maxcity\obj\x86\Debug\maxcity.ItemUpdate.resources
+D:\project new\sako\maxcity\maxcity\obj\x86\Debug\maxcity.ItemView.resources
+D:\project new\sako\maxcity\maxcity\obj\x86\Debug\maxcity.MAX_CITY.resources
+D:\project new\sako\maxcity\maxcity\obj\x86\Debug\maxcity.Properties.Resources.resources
+D:\project new\sako\maxcity\maxcity\obj\x86\Debug\maxcity.Update_Vendor.resources
+D:\project new\sako\maxcity\maxcity\obj\x86\Debug\maxcity.Vendor_Create.resources
+D:\project new\sako\maxcity\maxcity\obj\x86\Debug\maxcity.VendorView.resources
+D:\project new\sako\maxcity\maxcity\obj\x86\Debug\maxcity.csproj.GenerateResource.Cache
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.csprojResolveAssemblyReference.cache
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.csproj.GenerateResource.Cache
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\bin\Debug\maxcity.exe.config
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\obj\x86\Debug\maxcity.exe
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\obj\x86\Debug\maxcity.pdb
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\bin\Debug\data.mdf
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\bin\Debug\data_log.ldf
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\bin\Debug\maxcity.exe
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\bin\Debug\maxcity.pdb
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\obj\x86\Debug\maxcity.csprojResolveAssemblyReference.cache
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\obj\x86\Debug\maxcity.Create_Account.resources
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\obj\x86\Debug\maxcity.Customer_Create.resources
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\obj\x86\Debug\maxcity.Customer_Update.resources
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\obj\x86\Debug\maxcity.CustomerView.resources
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\obj\x86\Debug\maxcity.Form1.resources
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\obj\x86\Debug\maxcity.Form7.resources
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\obj\x86\Debug\maxcity.Help.resources
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\obj\x86\Debug\maxcity.Invoice.resources
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\obj\x86\Debug\maxcity.Item_Create.resources
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\obj\x86\Debug\maxcity.ItemUpdate.resources
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\obj\x86\Debug\maxcity.ItemView.resources
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\obj\x86\Debug\maxcity.MAX_CITY.resources
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\obj\x86\Debug\maxcity.Properties.Resources.resources
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\obj\x86\Debug\maxcity.Update_Vendor.resources
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\obj\x86\Debug\maxcity.Vendor_Create.resources
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\obj\x86\Debug\maxcity.VendorView.resources
+C:\Users\Jayamal\Desktop\extra\maxcity\maxcity\obj\x86\Debug\maxcity.csproj.GenerateResource.Cache
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.AccountView.resources
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.Sales.resources
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.test.resources
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.csproj.ResolveComReference.cache
+D:\maxcity\maxcity\bin\Debug\maxcity.exe.manifest
+D:\maxcity\maxcity\bin\Debug\maxcity.application
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.exe.manifest
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.application
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.Loan_Customer_View.resources
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.Low_Items_View.resources
+D:\maxcity\maxcity\obj\x86\Debug\Interop.AcroPDFLib.dll
+D:\maxcity\maxcity\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+D:\maxcity\maxcity\bin\Debug\Interop.AcroPDFLib.dll
+D:\maxcity\maxcity\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.Creditor.resources
+D:\maxcity\maxcity\obj\x86\Debug\maxcity.Daily_Sales.resources
+C:\maxcity\maxcity\bin\Debug\maxcity.exe.config
+C:\maxcity\maxcity\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\maxcity\maxcity\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.csproj.ResolveComReference.cache
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.exe
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.pdb
+C:\maxcity\maxcity\bin\Debug\data.mdf
+C:\maxcity\maxcity\bin\Debug\data_log.ldf
+C:\maxcity\maxcity\bin\Debug\maxcity.exe.manifest
+C:\maxcity\maxcity\bin\Debug\maxcity.application
+C:\maxcity\maxcity\bin\Debug\maxcity.exe
+C:\maxcity\maxcity\bin\Debug\maxcity.pdb
+C:\maxcity\maxcity\bin\Debug\Interop.AcroPDFLib.dll
+C:\maxcity\maxcity\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.csprojResolveAssemblyReference.cache
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.AccountView.resources
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.Create_Account.resources
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.Creditor.resources
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.Customer_Create.resources
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.Customer_Update.resources
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.CustomerView.resources
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.Daily_Sales.resources
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.Form1.resources
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.Form7.resources
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.Help.resources
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.Invoice.resources
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.Item_Create.resources
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.ItemUpdate.resources
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.ItemView.resources
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.Loan_Customer_View.resources
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.Low_Items_View.resources
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.MAX_CITY.resources
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.Properties.Resources.resources
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.Sales.resources
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.test.resources
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.Update_Vendor.resources
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.Vendor_Create.resources
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.VendorView.resources
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.csproj.GenerateResource.Cache
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.exe.manifest
+C:\maxcity\maxcity\obj\x86\Debug\maxcity.application
+C:\KMPlayer\maxcity\maxcity\bin\Debug\maxcity.exe.config
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.csproj.ResolveComReference.cache
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.exe
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.pdb
+C:\KMPlayer\maxcity\maxcity\bin\Debug\data.mdf
+C:\KMPlayer\maxcity\maxcity\bin\Debug\data_log.ldf
+C:\KMPlayer\maxcity\maxcity\bin\Debug\maxcity.exe.manifest
+C:\KMPlayer\maxcity\maxcity\bin\Debug\maxcity.application
+C:\KMPlayer\maxcity\maxcity\bin\Debug\maxcity.exe
+C:\KMPlayer\maxcity\maxcity\bin\Debug\maxcity.pdb
+C:\KMPlayer\maxcity\maxcity\bin\Debug\Interop.AcroPDFLib.dll
+C:\KMPlayer\maxcity\maxcity\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.csprojResolveAssemblyReference.cache
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.AccountView.resources
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.Create_Account.resources
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.Creditor.resources
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.Customer_Create.resources
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.Customer_Update.resources
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.CustomerView.resources
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.Daily_Sales.resources
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.Form1.resources
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.Form7.resources
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.Help.resources
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.Invoice.resources
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.Item_Create.resources
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.ItemUpdate.resources
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.ItemView.resources
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.Loan_Customer_View.resources
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.Low_Items_View.resources
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.MAX_CITY.resources
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.Properties.Resources.resources
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.Sales.resources
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.test.resources
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.Update_Vendor.resources
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.Vendor_Create.resources
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.VendorView.resources
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.csproj.GenerateResource.Cache
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.exe.manifest
+C:\KMPlayer\maxcity\maxcity\obj\x86\Debug\maxcity.application
+C:\Users\Dhanuka Darshana\Desktop\maxcity\maxcity\bin\Debug\maxcity.exe.config
+C:\Users\Dhanuka Darshana\Desktop\maxcity\maxcity\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\Dhanuka Darshana\Desktop\maxcity\maxcity\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Dhanuka Darshana\Desktop\maxcity\maxcity\obj\x86\Debug\maxcity.csproj.ResolveComReference.cache
+C:\Users\Dhanuka Darshana\Desktop\maxcity\maxcity\obj\x86\Debug\maxcity.exe
+C:\Users\Dhanuka Darshana\Desktop\maxcity\maxcity\obj\x86\Debug\maxcity.pdb
+G:\maxcity\maxcity\bin\Debug\maxcity.exe.config
+G:\maxcity\maxcity\obj\x86\Debug\Interop.AcroPDFLib.dll
+G:\maxcity\maxcity\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.csproj.ResolveComReference.cache
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.exe
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.pdb
+G:\maxcity\maxcity\bin\Debug\data.mdf
+G:\maxcity\maxcity\bin\Debug\data_log.ldf
+G:\maxcity\maxcity\bin\Debug\maxcity.exe.manifest
+G:\maxcity\maxcity\bin\Debug\maxcity.application
+G:\maxcity\maxcity\bin\Debug\maxcity.exe
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.csprojResolveAssemblyReference.cache
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.AccountView.resources
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.Create_Account.resources
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.Creditor.resources
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.Customer_Create.resources
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.Customer_Update.resources
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.CustomerView.resources
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.Daily_Sales.resources
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.Form1.resources
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.Form7.resources
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.Help.resources
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.Invoice.resources
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.Item_Create.resources
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.ItemUpdate.resources
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.ItemView.resources
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.Loan_Customer_View.resources
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.Low_Items_View.resources
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.MAX_CITY.resources
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.Properties.Resources.resources
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.Sales.resources
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.test.resources
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.Update_Vendor.resources
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.Vendor_Create.resources
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.VendorView.resources
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.csproj.GenerateResource.Cache
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.exe.manifest
+G:\maxcity\maxcity\obj\x86\Debug\maxcity.application

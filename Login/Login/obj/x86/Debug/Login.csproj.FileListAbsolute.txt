@@ -14,3 +14,4 @@ H:\My doc\C#-Example\Login\Login\obj\x86\Debug\Login.Properties.Resources.resour
 H:\My doc\C#-Example\Login\Login\obj\x86\Debug\Login.csproj.GenerateResource.Cache
 H:\My doc\C#-Example\Login\Login\bin\Debug\Login.exe
 H:\My doc\C#-Example\Login\Login\bin\Debug\Login.pdb
+H:\My doc\C#-Example\Login\Login\obj\x86\Debug\Login.csprojResolveAssemblyReference.cache

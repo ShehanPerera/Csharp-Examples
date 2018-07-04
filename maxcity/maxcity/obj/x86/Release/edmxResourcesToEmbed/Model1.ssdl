@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dataModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="dataModelStoreContainer">
+    <EntitySet Name="Customer" EntityType="dataModel.Store.Customer" store:Type="Tables" store:Schema="dbo" store:Name="Customer">
+      <DefiningQuery>SELECT 
+      [Customer].[CID] AS [CID], 
+      [Customer].[FristName] AS [FristName], 
+      [Customer].[LastName] AS [LastName], 
+      [Customer].[Type] AS [Type], 
+      [Customer].[NIC] AS [NIC], 
+      [Customer].[Address] AS [Address], 
+      [Customer].[Tel] AS [Tel], 
+      [Customer].[Mobile] AS [Mobile], 
+      [Customer].[Mail] AS [Mail]
+      FROM [dbo].[Customer] AS [Customer]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'D:\DATA.MDF.dbo.Customer' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CID" />
+      <PropertyRef Name="FristName" />
+      <PropertyRef Name="NIC" />
+      <PropertyRef Name="Mobile" />
+    </Key>
+    <Property Name="CID" Type="char" Nullable="false" MaxLength="10" />
+    <Property Name="FristName" Type="char" Nullable="false" MaxLength="20" />
+    <Property Name="LastName" Type="char" MaxLength="20" />
+    <Property Name="Type" Type="char" MaxLength="10" />
+    <Property Name="NIC" Type="char" Nullable="false" MaxLength="20" />
+    <Property Name="Address" Type="char" MaxLength="50" />
+    <Property Name="Tel" Type="char" MaxLength="20" />
+    <Property Name="Mobile" Type="char" Nullable="false" MaxLength="20" />
+    <Property Name="Mail" Type="char" MaxLength="50" />
+  </EntityType>
+</Schema>
