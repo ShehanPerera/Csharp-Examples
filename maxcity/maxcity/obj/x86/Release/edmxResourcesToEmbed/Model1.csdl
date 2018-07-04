@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dataModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="dataEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Customers" EntityType="dataModel.Customer" />
+  </EntityContainer>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CID" />
+      <PropertyRef Name="FristName" />
+      <PropertyRef Name="NIC" />
+      <PropertyRef Name="Mobile" />
+    </Key>
+    <Property Name="CID" Type="String" Nullable="false" MaxLength="10" Unicode="false" FixedLength="true" />
+    <Property Name="FristName" Type="String" Nullable="false" MaxLength="20" Unicode="false" FixedLength="true" />
+    <Property Name="LastName" Type="String" MaxLength="20" Unicode="false" FixedLength="true" />
+    <Property Name="Type" Type="String" MaxLength="10" Unicode="false" FixedLength="true" />
+    <Property Name="NIC" Type="String" Nullable="false" MaxLength="20" Unicode="false" FixedLength="true" />
+    <Property Name="Address" Type="String" MaxLength="50" Unicode="false" FixedLength="true" />
+    <Property Name="Tel" Type="String" MaxLength="20" Unicode="false" FixedLength="true" />
+    <Property Name="Mobile" Type="String" Nullable="false" MaxLength="20" Unicode="false" FixedLength="true" />
+    <Property Name="Mail" Type="String" MaxLength="50" Unicode="false" FixedLength="true" />
+  </EntityType>
+</Schema>

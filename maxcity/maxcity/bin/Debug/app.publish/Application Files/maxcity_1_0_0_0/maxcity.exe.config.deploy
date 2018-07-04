@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections></configSections>
+  <connectionStrings>
+    <add name="maxcity.Properties.Settings.dataConnectionString"
+      connectionString="Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\data.mdf;Integrated Security=True;User Instance=True"
+      providerName="System.Data.SqlClient" />
+    <add name="maxcity.Properties.Settings.dataConnectionString1"
+      connectionString="Data Source=.\SQLEXPRESS;AttachDbFilename=D:\data.mdf;Integrated Security=True;Connect Timeout=30;User Instance=True"
+      providerName="System.Data.SqlClient" />
+    <add name="dataEntities" connectionString="metadata=res://*/Model1.csdl|res://*/Model1.ssdl|res://*/Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;Data Source=.\SQLEXPRESS;AttachDbFilename=D:\data.mdf;Integrated Security=True;Connect Timeout=30;User Instance=True;MultipleActiveResultSets=True&quot;"
+      providerName="System.Data.EntityClient" />
+    <add name="maxcity.Properties.Settings.Database1ConnectionString"
+      connectionString="Data Source=|DataDirectory|\Database1.sdf"
+      providerName="Microsoft.SqlServerCe.Client.3.5" />
+  </connectionStrings>
+</configuration>

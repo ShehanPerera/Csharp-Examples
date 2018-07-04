@@ -30,6 +30,7 @@
         {
             this.components = new System.ComponentModel.Container();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.alarmst = new System.Windows.Forms.Label();
             this.alarmStop = new System.Windows.Forms.Button();
             this.alarmstart = new System.Windows.Forms.Button();
             this.dateTimePicker = new System.Windows.Forms.DateTimePicker();
@@ -47,7 +48,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.countdowntimer = new System.Windows.Forms.Timer(this.components);
-            this.alarmst = new System.Windows.Forms.Label();
             this.About = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -66,6 +66,16 @@
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Alarm";
+            this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
+            // 
+            // alarmst
+            // 
+            this.alarmst.AutoSize = true;
+            this.alarmst.Location = new System.Drawing.Point(31, 60);
+            this.alarmst.Name = "alarmst";
+            this.alarmst.Size = new System.Drawing.Size(37, 13);
+            this.alarmst.TabIndex = 3;
+            this.alarmst.Text = "Status";
             // 
             // alarmStop
             // 
@@ -231,15 +241,6 @@
             // countdowntimer
             // 
             this.countdowntimer.Tick += new System.EventHandler(this.countdowntimer_Tick);
-            // 
-            // alarmst
-            // 
-            this.alarmst.AutoSize = true;
-            this.alarmst.Location = new System.Drawing.Point(31, 60);
-            this.alarmst.Name = "alarmst";
-            this.alarmst.Size = new System.Drawing.Size(37, 13);
-            this.alarmst.TabIndex = 3;
-            this.alarmst.Text = "Status";
             // 
             // About
             // 
