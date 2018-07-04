@@ -5,8 +5,3 @@ C:\Users\LENOVO\Desktop\MyNotepad\AutoCompleteTextbox\AutoCompleteTextbox\obj\x8
 C:\Users\LENOVO\Desktop\MyNotepad\AutoCompleteTextbox\AutoCompleteTextbox\obj\x86\Debug\AutoCompleteTextbox.csproj.GenerateResource.Cache
 C:\Users\LENOVO\Desktop\MyNotepad\AutoCompleteTextbox\AutoCompleteTextbox\obj\x86\Debug\AutoCompleteTextbox.exe
 C:\Users\LENOVO\Desktop\MyNotepad\AutoCompleteTextbox\AutoCompleteTextbox\obj\x86\Debug\AutoCompleteTextbox.pdb
-H:\My doc\C#-Example\AutoCompleteTextbox\AutoCompleteTextbox\obj\x86\Debug\AutoCompleteTextbox.exe
-H:\My doc\C#-Example\AutoCompleteTextbox\AutoCompleteTextbox\obj\x86\Debug\AutoCompleteTextbox.pdb
-H:\My doc\C#-Example\AutoCompleteTextbox\AutoCompleteTextbox\obj\x86\Debug\AutoCompleteTextbox.Form1.resources
-H:\My doc\C#-Example\AutoCompleteTextbox\AutoCompleteTextbox\obj\x86\Debug\AutoCompleteTextbox.Properties.Resources.resources
-H:\My doc\C#-Example\AutoCompleteTextbox\AutoCompleteTextbox\obj\x86\Debug\AutoCompleteTextbox.csproj.GenerateResource.Cache
