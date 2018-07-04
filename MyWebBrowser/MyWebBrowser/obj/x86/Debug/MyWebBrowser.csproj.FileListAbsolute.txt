@@ -5,11 +5,3 @@ C:\Users\LENOVO\Desktop\MyNotepad\MyWebBrowser\MyWebBrowser\obj\x86\Debug\MyWebB
 C:\Users\LENOVO\Desktop\MyNotepad\MyWebBrowser\MyWebBrowser\obj\x86\Debug\MyWebBrowser.csproj.GenerateResource.Cache
 C:\Users\LENOVO\Desktop\MyNotepad\MyWebBrowser\MyWebBrowser\obj\x86\Debug\MyWebBrowser.exe
 C:\Users\LENOVO\Desktop\MyNotepad\MyWebBrowser\MyWebBrowser\obj\x86\Debug\MyWebBrowser.pdb
-H:\My doc\C#-Example\MyWebBrowser\MyWebBrowser\obj\x86\Debug\MyWebBrowser.exe
-H:\My doc\C#-Example\MyWebBrowser\MyWebBrowser\obj\x86\Debug\MyWebBrowser.pdb
-H:\My doc\C#-Example\MyWebBrowser\MyWebBrowser\bin\Debug\MyWebBrowser.exe
-H:\My doc\C#-Example\MyWebBrowser\MyWebBrowser\bin\Debug\MyWebBrowser.pdb
-H:\My doc\C#-Example\MyWebBrowser\MyWebBrowser\obj\x86\Debug\MyWebBrowser.csprojResolveAssemblyReference.cache
-H:\My doc\C#-Example\MyWebBrowser\MyWebBrowser\obj\x86\Debug\MyWebBrowser.Mywebbrowser.resources
-H:\My doc\C#-Example\MyWebBrowser\MyWebBrowser\obj\x86\Debug\MyWebBrowser.Properties.Resources.resources
-H:\My doc\C#-Example\MyWebBrowser\MyWebBrowser\obj\x86\Debug\MyWebBrowser.csproj.GenerateResource.Cache
