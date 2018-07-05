@@ -1,6 +1,5 @@
 # Auto Complete Textbox
-This a exxample for make a auto complete textbox. In this when we type in the textbox it will auto suggest word that we can use from 
-already in the datast . This can be modify to get data from SQL data base and auto complete.You can follow the youtube video from following link.
+This an example of making a autocomplete textbox. In this when we type in the textbox it will auto-suggest word that we can use from already in the dataset. This can be modified to get data from SQL database and autocomplete.You can follow the youtube video from the following link.
 <a href="https://www.youtube.com/watch?v=EHWPt4GSW3s&t">C# Tutorials - AutoComplete TextBox</a>
 
 # Interfaces
